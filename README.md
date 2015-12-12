@@ -1,0 +1,2 @@
+# invoicegen
+Batch document generator
